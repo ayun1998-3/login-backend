@@ -1,0 +1,6 @@
+com\testing\user\UserService.class
+com\testing\MyApplication.class
+com\testing\user\ObjectRepository.class
+com\testing\user\UserController.class
+com\testing\user\User.class
+com\testing\user\UserRepository.class
